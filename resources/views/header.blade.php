@@ -2,7 +2,7 @@
 
     <div class="container position-relative d-flex align-items-center justify-content-between">
 
-        <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+        <a href="#hero" class="logo d-flex align-items-center me-auto me-xl-0">
         <img src="{{ ('assets/img/favicon-white.png') }}" alt="">
         <h1 class="sitename">Manufix</h1>
         </a>
