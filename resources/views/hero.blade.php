@@ -9,7 +9,7 @@
           <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
             <a href="#about" class="cta-btn">Coba Gratis</a>
             <a href="#about" class="cta-white-btn">Hubungi Sales</a>
-            <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center justify-content-center ms-0 ms-md-4 mt-4 mt-md-0"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+            {{-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center justify-content-center ms-0 ms-md-4 mt-4 mt-md-0"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> --}}
           </div>
         </div>
         
