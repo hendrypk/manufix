@@ -813,19 +813,71 @@ h6 {
   background-color: #1ebe5d;
 }
 
-@media (max-width: 768px) {
+/* Laptop: ≤ 1200px */
+@media (max-width: 1200px) {
   .scroll-top {
-    right: 15px;    /* lebih dekat ke tepi di layar kecil */
-    bottom: 50px;   /* geser sedikit ke atas agar tidak tumpuk dengan WA */
-    width: 30px;
-    height: 30px;
+    right: 30px;
+    bottom: 15px;
+    width: 44px;
+    height: 44px;
   }
 
   #whatssapp {
-    bottom: 20px;
     right: 15px;
-    width: 30px;
-    height: 30px;
+    bottom: 20px;
+    width: 44px;
+    height: 44px;
+  }
+}
+
+/* Tablet Landscape: ≤ 992px */
+@media (max-width: 992px) {
+  .scroll-top {
+    right: 20px;
+    bottom: 60px;
+    width: 40px;
+    height: 40px;
+  }
+
+  #whatssapp {
+    right: 15px;
+    bottom: 15px;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+/* Tablet Portrait / Phablet: ≤ 768px */
+@media (max-width: 768px) {
+  .scroll-top {
+    right: 15px;
+    bottom: 60px;
+    width: 40px;
+    height: 40px;
+  }
+
+  #whatssapp {
+    right: 15px;
+    bottom: 15px;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+/* Smartphone: ≤ 576px */
+@media (max-width: 576px) {
+  .scroll-top {
+    right: 12px;
+    bottom: 60px;
+    width: 36px;
+    height: 36px;
+  }
+
+  #whatssapp {
+    right: 12px;
+    bottom: 15px;
+    width: 36px;
+    height: 36px;
   }
 }
 
