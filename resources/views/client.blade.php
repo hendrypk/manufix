@@ -1,5 +1,10 @@
 <section id="clients" class="clients section">
 
+     <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+      <h2>Mereka Telah Menggunakan Manufix</h2>
+    </div><!-- End Section Title -->
+
     <div class="container" data-aos="fade-up" data-aos-delay="100">
 
       <div class="row g-0 clients-wrap">

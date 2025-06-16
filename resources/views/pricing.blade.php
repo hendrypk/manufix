@@ -13,7 +13,7 @@
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <div class="pricing-item">
             <h3>Silver</h3>
-            <h4><sup>Rp</sup>198<span> / month</span></h4>
+            <h4><sup>Rp</sup><span> / month</span></h4>
             <ul>
               <li>Aida dere</li>
               <li>Nec feugiat nisl</li>
@@ -31,7 +31,7 @@
           <div class="pricing-item recommended">
             <span class="recommended-badge">Recommended</span>
             <h3>Pro</h3>
-            <h4><sup>Rp</sup>301<span> / month</span></h4>
+            <h4><sup>Rp</sup><span> / month</span></h4>
             <ul>
               <li>Aida dere</li>
               <li>Nec feugiat nisl</li>
@@ -48,7 +48,7 @@
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
           <div class="pricing-item">
             <h3>Enterprise</h3>
-            <h4><sup>Rp</sup>502<span> / month</span></h4>
+            <h4><sup>Rp</sup><span> / month</span></h4>
             <ul>
               <li>Aida dere</li>
               <li>Nec feugiat nisl</li>

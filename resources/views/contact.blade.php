@@ -15,7 +15,7 @@
             <i class="bi bi-geo-alt flex-shrink-0"></i>
             <div>
               <h3>Address</h3>
-              <p>A1Cobongan, Ngestiharjo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55182</p>
+              <p>Jl Tugu Penen, Harjobinangun, Pakem, Sleman</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -31,7 +31,7 @@
             <i class="bi bi-envelope flex-shrink-0"></i>
             <div>
               <h3>Email Us</h3>
-              <p>info@manufix.id</p>
+              <p>halo@manufix.id</p>
             </div>
           </div><!-- End Info Item -->
 
