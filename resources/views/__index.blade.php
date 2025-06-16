@@ -90,7 +90,7 @@
 
   <!-- Scroll Top -->
   <a href="#" id="whatssapp" class="whatssapp d-flex align-items-center justify-content-center"><i class="bi bi-whatsapp"></i></a>
-  <a href="https://wa.me/6285117511135" id="scroll-top" target="_blank" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="https://wa.me/6285117511135" target="_blank" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Preloader -->
   <div id="preloader"></div>
