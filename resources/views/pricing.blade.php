@@ -2,7 +2,7 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-      <h2>Pricing</h2>
+      <h2>Harga</h2>
       {{-- <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p> --}}
     </div><!-- End Section Title -->
 
@@ -22,7 +22,7 @@
               <li class="na">Massa ultricies mi</li>
             </ul>
             <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
+              <a href="https://wa.me/6285117511135" target="_blank" class="btn-buy">Langganan Sekarang</a>
             </div>
           </div>
         </div><!-- End Pricing Item -->
@@ -40,7 +40,7 @@
               <li class="na">Massa ultricies mi</li>
             </ul>
             <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
+              <a href="https://wa.me/6285117511135" target="_blank" class="btn-buy">Langganan Sekarang</a>
             </div>
           </div>
         </div><!-- End Pricing Item -->
@@ -57,7 +57,7 @@
               <li>Massa ultricies mi</li>
             </ul>
             <div class="btn-wrap">
-              <a href="#" class="btn-buy">Buy Now</a>
+              <a href="https://wa.me/6285117511135" target="_blank" class="btn-buy">Langganan Sekarang</a>
             </div>
           </div>
         </div><!-- End Pricing Item -->

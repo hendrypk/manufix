@@ -2,7 +2,7 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-      <h2>Contact</h2>
+      <h2>Hubungi Kami</h2>
       {{-- <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p> --}}
     </div><!-- End Section Title -->
 
@@ -14,7 +14,7 @@
           <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
             <i class="bi bi-geo-alt flex-shrink-0"></i>
             <div>
-              <h3>Address</h3>
+              <h3>Alamat</h3>
               <p>Jl Tugu Penen, Harjobinangun, Pakem, Sleman</p>
             </div>
           </div><!-- End Info Item -->
@@ -22,7 +22,7 @@
           <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
             <i class="bi bi-telephone flex-shrink-0"></i>
             <div>
-              <h3>Call Us</h3>
+              <h3>Whatsapp</h3>
               <p>085117511135</p>
             </div>
           </div><!-- End Info Item -->
@@ -30,14 +30,14 @@
           <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
             <i class="bi bi-envelope flex-shrink-0"></i>
             <div>
-              <h3>Email Us</h3>
+              <h3>Email</h3>
               <p>halo@manufix.id</p>
             </div>
           </div><!-- End Info Item -->
 
         </div>
 
-        <div class="col-lg-8">
+        {{-- <div class="col-lg-8">
           <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
             <div class="row gy-4">
 
@@ -67,7 +67,7 @@
 
             </div>
           </form>
-        </div><!-- End Contact Form -->
+        </div><!-- End Contact Form --> --}}
 
       </div>
 

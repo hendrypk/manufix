@@ -2,7 +2,7 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-      <h2>Fitur</h2>
+      <h2>Mengapa mereka memilih Manufix</h2>
       {{-- <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p> --}}
     </div><!-- End Section Title -->
 
@@ -10,7 +10,7 @@
 
       <div class="row gy-4">
         <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
-          <div class="service-item  position-relative">
+          <div class="service-item text-align-center position-relative">
             <img src="{{ asset('assets/img/icon/spk.png') }}" class="service-icon animated" alt="Logo">
             <div class="service-body">
               <h3>SPK Produksi</h3>
@@ -42,7 +42,7 @@
 
         <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item  position-relative">
-            <img src="{{ asset('assets/img/icon/receipt.png') }}" class="service-icon animated" alt="Logo">
+            <img src="{{ asset('assets/img/icon/laptop_tracking.png') }}" class="service-icon animated" alt="Logo">
             <div class="service-body">
               <h3>Cek Resi</h3>
               <p>Manjakan pelanggan dengan fitur cek resi untuk memantau progress produksi pesanan.</p>
@@ -52,7 +52,7 @@
 
         <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item  position-relative">
-            <img src="{{ asset('assets/img/icon/calendar.png') }}" class="service-icon animated" alt="Logo">
+            <img src="{{ asset('assets/img/icon/icon_calendar.png') }}" class="service-icon animated" alt="Logo">
             <div class="service-body">
               <h3>Kalender</h3>
               <p>Kalender ajaib yang permudah monitoring deadline untuk mencegah keterlambatan.</p>
@@ -83,7 +83,7 @@
 
         <div class="col-lg-3 col-md-3" data-aos="fade-up" data-aos-delay="100">
           <div class="service-item  position-relative">
-            <img src="{{ asset('assets/img/icon/cogs.png') }}" class="service-icon animated" alt="Logo">
+            <img src="{{ asset('assets/img/icon/invoice_2.png') }}" class="service-icon animated" alt="Logo">
             <div class="service-body">
               <h3>Tagihan Penjualan</h3>
               <p>Bikin tagihan penjualan dari pesanan selesai produksi secara otomatis.</p>
